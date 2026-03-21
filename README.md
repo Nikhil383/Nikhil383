@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I design, build, and ship **AI-powered products** 
 
 ## Skills & Current Technologies
 
-### Generative AI & LLMs 
+### Generative AI & LLMs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDB4A?style=for-the-badge&logo=huggingface&logoColor=000)
