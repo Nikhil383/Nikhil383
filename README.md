@@ -66,7 +66,6 @@ Welcome to my GitHub profile! I design, build, and ship **AI-powered products** 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil383&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Nikhil383&theme=radical&hide_border=true&background=0D1117)
 
 ## Current Focus as an AI Engineer
 
