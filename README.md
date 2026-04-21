@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I am an **AI Engineer** specializing in bridging t
 </p>
 
 ## Contribution Graph
-![Nikhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil383&theme=radical&hide_border=true)
+![Nikhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil383&theme=github_dark&hide_border=true)
 ## Current Focus
 -  **Building:** A multimodal RAG system for analyzing complex financial charts.
 -  **Learning:** Advanced Reinforcement Learning from Human Feedback (RLHF) and DSPy.
