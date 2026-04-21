@@ -1,15 +1,15 @@
-# Hi, I'm Nikhil 👋
+# Hi, I'm Nikhil 
 
 Welcome to my GitHub profile! I am an **AI Engineer** specializing in bridging the gap between complex machine learning research and scalable, production-ready applications. I focus on building **LLM-powered systems, RAG pipelines, and agentic workflows.**
 
-## 🚀 About Me
+## About Me
 
-- 🎓 **M.Tech in Data Science** | Amrita Vishwa Vidyapeetham
-- 🤖 **AI/ML Resident** | IITG-AIML (Masai School)
-- 💡 **Core Focus:** Turning "it works on my notebook" into "it works in production."
-- 🛠️ **Expertise:** LLMs, Prompt Engineering, RAG Systems, and MLOps.
+-  **M.Tech in Data Science** | Amrita Vishwa Vidyapeetham
+-  **AI/ML Resident** | IITG-AIML (Masai School)
+-  **Core Focus:** Turning "it works on my notebook" into "it works in production."
+-  **Expertise:** LLMs, Prompt Engineering, RAG Systems, and MLOps.
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 ### **Generative AI & LLMs**
 - **Frameworks:** LangChain, LlamaIndex, CrewAI (Agentic Orchestration)
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I am an **AI Engineer** specializing in bridging t
 
 ---
 
-## 🏗️ Featured Projects
+##  Featured Projects
 
 ### **[Visual Question Answering]**
 *Architected a system to perform complex reasoning over visual data using the Gemini 1.5 API*
@@ -47,19 +47,19 @@ Welcome to my GitHub profile! I am an **AI Engineer** specializing in bridging t
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Nikhil383&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Nikhil's Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil383&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
-## 🎯 Current Focus
-- 🔭 **Building:** A multimodal RAG system for analyzing complex financial charts.
-- 📚 **Learning:** Advanced Reinforcement Learning from Human Feedback (RLHF) and DSPy.
-- 💬 **Ask me about:** Why RAG is better than fine-tuning for 90% of use cases.
+## Current Focus
+-  **Building:** A multimodal RAG system for analyzing complex financial charts.
+-  **Learning:** Advanced Reinforcement Learning from Human Feedback (RLHF) and DSPy.
+-  **Ask me about:** Why RAG is better than fine-tuning for 90% of use cases.
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilmaheshds/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilmahesh89@gmail.com)
