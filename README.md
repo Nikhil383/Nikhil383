@@ -1,75 +1,118 @@
-# Hi, I'm Nikhil 
+# Hi, I'm Nikhil
 
-Welcome to my GitHub profile! I am an **AI Engineer** specializing in bridging the gap between complex machine learning research and scalable, production-ready applications. I focus on building **LLM-powered systems, RAG pipelines, and agentic workflows.**
+**AI/ML Engineer | Generative AI | LLM Applications | RAG | Multimodal AI**
+
+I build practical AI systems that move from **experimentation to usable applications** — combining machine learning, LLMs, retrieval, APIs, and deployment into end-to-end solutions.
 
 ## About Me
 
--  **M.Tech in Data Science** | Amrita Vishwa Vidyapeetham
--  **AI/ML Resident** | IITG-AIML (Masai School)
--  **Core Focus:** Turning "it works on my notebook" into "it works in production."
--  **Expertise:** LLMs, Prompt Engineering, RAG Systems, and MLOps.
+- **M.Tech in Data Science** — Amrita Vishwa Vidyapeetham
+- **AI/ML Resident** — IITG-AIML
+- Experience building AI/ML applications using **Python, Django, SQL, Azure, and modern GenAI tooling**
+- Interested in **LLM applications, RAG, multimodal AI, agentic workflows, and AI engineering**
+- Currently focused on building systems that are **reliable, testable, and production-oriented**
 
-##  Skills & Technologies
+## Tech Stack
 
-### **Generative AI & LLMs**
-- **Frameworks:** LangChain, LlamaIndex, CrewAI (Agentic Orchestration)
-- **Models:** OpenAI GPT-4, Claude 3.5, Llama 3 (Ollama/Groq), Hugging Face Transformers
-- **Vector DBs:** Pinecone, Milvus, Qdrant, ChromaDB
+### Generative AI & LLMs
 
-### **Deep Learning & Computer Vision**
-- **Core:** PyTorch, TensorFlow, Keras, Scikit-learn
-- **Vision:** OpenCV, YOLOv8/v10, MediaPipe
-- **Methods:** Fine-tuning (LoRA/QLoRA), Quantization, Model Evaluation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### **Programming & Data**
-- **Languages:** Python (Advanced), TypeScript, SQL
-- **Analytics:** Pandas, NumPy, Matplotlib, Seaborn
-- **Backend:** FastAPI, Flask, Streamlit (for AI Demos)
+**LLM:** Prompt Engineering · Context Engineering · RAG · Embeddings · Vector Search · Function Calling · Agentic Workflows · Multimodal AI
 
-### **MLOps & Infrastructure**
-- **DevOps:** Docker, Kubernetes, GitHub Actions
-- **Cloud:** AWS (EC2, S3), GCP
-- **Experiment Tracking:** MLflow, Weights & Biases
+### Machine Learning & Deep Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**ML:** Supervised Learning · NLP · Computer Vision · Model Evaluation · Feature Engineering · Fine-tuning Fundamentals
+
+### Programming & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Cloud, Deployment & MLOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Focus:** REST APIs · Model Serving · Docker · Cloud Deployment · Experimentation · Evaluation
 
 ---
 
-##  Featured Projects
+## Featured Work
 
-### **[Visual Question Answering]**
-*Architected a system to perform complex reasoning over visual data using the Gemini 1.5 API*
-- **Tech:** Python, Google Generative AI SDK (Gemini 1.5 Flash), Flask, LangChain.
-- **Outcome:** Successfully handled "Zero-Shot" reasoning for complex infographics and charts, reducing the need for manual data extraction by 85%.
+### Multimodal RAG
 
-### **[Image Caption]**
-*Developed an automated pipeline to generate high-fidelity, context-aware descriptions for large-scale image datasets.*
-- **Tech:** Python, Gemini API (Multimodal), FastAPI.
-- **Outcome:** Leveraged Gemini’s multimodal capabilities to generate nuanced captions that outperformed traditional CNN-LSTM models in semantic richness and descriptive accuracy.
+Building retrieval-augmented systems that combine **text and visual information** to answer questions over documents, charts, and other complex data.
+
+**Focus:** Gemini API · embeddings · semantic retrieval · metadata-aware chunking · reranking · RAG evaluation
+
+### AI / ML Applications
+
+Developing end-to-end applications that connect **ML/LLM capabilities with real product interfaces and APIs**.
+
+**Focus:** Python · Django/FastAPI · SQL · Streamlit · REST APIs · cloud deployment
+
+### AI Data & Analytics
+
+Exploring AI-assisted analytics workflows that use LLMs to transform raw data into **structured insights, explanations, and interactive analysis**.
+
+**Focus:** Python · Pandas · LLMs · structured outputs · data visualization
 
 ---
+
+## What I Build
+
+- **LLM applications** — assistants, copilots, and domain-specific AI tools
+- **RAG systems** — semantic retrieval over documents, APIs, and multimodal data
+- **Multimodal AI** — applications combining text, images, charts, and other inputs
+- **ML systems** — classification, NLP, computer vision, and predictive modeling
+- **AI APIs & services** — model-backed REST services and application backends
+- **Evaluation pipelines** — retrieval, generation, and model-quality evaluation
+
+## Current Focus
+
+- **Building:** Multimodal RAG and LLM-powered applications
+- **Exploring:** Agentic workflows, LangGraph, MCP, evaluation, and scalable model serving
+- **Strengthening:** Production AI engineering, system design, and MLOps
+- **Looking to collaborate on:** Open-source AI/ML and GenAI projects
 
 ## GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Nikhil383&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Nikhil's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil383&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil383&show_icons=true&hide_border=true&rank_icon=github" alt="Nikhil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil383&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
-## Contribution Graph
-![Nikhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil383&bg_color=0d1117&color=00ff00&line=00ff00&point=00aa00&area=true&hide_border=true)
+## Contribution Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil383&theme=dark&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
-
-## Current Focus
--  **Building:** A multimodal RAG system for analyzing complex financial charts.
--  **Learning:** Advanced Reinforcement Learning from Human Feedback (RLHF) and DSPy.
--  **Ask me about:** Why RAG is better than fine-tuning for 90% of use cases.
-
-##  Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilmaheshds/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilmahesh89@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-six-steel-50.vercel.app/)
+![Nikhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil383&hide_border=true)
 
 ---
 
-From [Nikhil383](https://github.com/Nikhil383)
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilmaheshds/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilmahesh89@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-steel-50.vercel.app/)
+
+---
+
+<p align="center">
+  <i>Building practical AI systems, one experiment at a time.</i>
+</p>
