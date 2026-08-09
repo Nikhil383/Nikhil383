@@ -95,13 +95,19 @@ Exploring AI-assisted analytics workflows that use LLMs to transform raw data in
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil383&show_icons=true&hide_border=true&rank_icon=github" alt="Nikhil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil383&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil383&show_icons=true&hide_border=true&rank_icon=github&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="Nikhil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil383&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" />
+</p>
+
+## GitHub Streak
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Nikhil383&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" alt="GitHub Streak" />
 </p>
 
 ## Contribution Activity
 
-![Nikhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil383&hide_border=true)
+![Nikhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil383&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true)
 
 ---
 
