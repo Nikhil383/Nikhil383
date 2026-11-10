@@ -7,7 +7,6 @@ I build practical AI systems that move from **experimentation to usable applicat
 ## About Me
 
 - **M.Tech in Data Science** — Amrita Vishwa Vidyapeetham
-- **AI/ML Resident** — IITG-AIML
 - Experience building AI/ML applications using **Python, Django, SQL, Azure, and modern GenAI tooling**
 - Interested in **LLM applications, RAG, multimodal AI, agentic workflows, and AI engineering**
 - Currently focused on building systems that are **reliable, testable, and production-oriented**
